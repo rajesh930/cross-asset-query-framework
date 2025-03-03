@@ -1,0 +1,3 @@
+rootProject.name = 'cross-asset-query-framework'
+include 'asset-model'
+

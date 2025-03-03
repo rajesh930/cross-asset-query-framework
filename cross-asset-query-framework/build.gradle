@@ -1,0 +1,9 @@
+group = 'com.ontic'
+version = '1.0'
+
+subprojects {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+}
